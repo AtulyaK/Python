@@ -1,0 +1,7 @@
+Variables hold values.
+ex:
+message="Hello World"
+print(message)
+
+In the example above, message is a variable. The value it holds is 
+Hello World.
