@@ -1,0 +1,4 @@
+cd: current directory
+dir:lists what is in the directory
+cd .. : to return to the previous directory/ go up a directory
+cls: to clear the command prompt
