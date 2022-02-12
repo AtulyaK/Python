@@ -1,5 +1,5 @@
 Jupyter is an environment used offline to test code.
 
 
-1. To create a new cell do Shift+Enter
-2.
+1. To run a cell do Shift+Enter
+2. Click on a cell then go to the dropdown starting with Code. From there you can make it a text section for maybe notes or whatever you need.
