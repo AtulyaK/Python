@@ -2,3 +2,4 @@ cd: current directory
 dir:lists what is in the directory
 cd .. : to return to the previous directory/ go up a directory
 cls: to clear the command prompt
+python __filename__.py -> in Command Prompt runs the file if in the right folder
